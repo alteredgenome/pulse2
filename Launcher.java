@@ -1,3 +1,9 @@
+//Pulse2 Engine
+//(c) 2015 DuoCore Studios
+//This software's code is not open source, and you cannot change or redistribute it
+//The code has been made publically available for the sake of growing developers
+//"Launcher.java"
+//"Launcher Class"
 package com.duocore.pulse2;
 import java.awt.Dimension;
 import java.awt.Rectangle;
@@ -74,3 +80,4 @@ public class Launcher extends JFrame {
 	}
 	
 }
+//End Launcher.java
